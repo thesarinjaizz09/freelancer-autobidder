@@ -11,6 +11,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
 
 BIDS_FILE = "submitted_bids.json"
 SKIPPED_FILE = "skipped_bids.json"
@@ -242,9 +243,9 @@ def find_projects():
         pTitle = p.get("title", "N/A")
         if pTitle in submitted_bids:
             mark_skipped(p, "Already bid previously")
-            return False
+            continue
         elif pTitle in skipped_bids:
-            return False
+            continue
         else:
             finalProjects.append(p)
 
@@ -334,43 +335,54 @@ def prefill_bid(project):
         desc_el.send_keys(proposal)
         
         try:
-            time.sleep(1)
-            # Wait until the Place Bid button is clickable
-            place_bid_btn = WebDriverWait(driver, 10).until( EC.element_to_be_clickable( (By.XPATH, "//fl-button[@fltrackinglabel='PlaceBidButton']//button[contains(text(),'Place Bid')]") ) ) 
-            place_bid_btn.click() 
-            print(f"✅ Proposal submitted successfully! Budget: {min_budget}, Time: {'5 days' if period_type == "days" else '50 hours'}")
+            # Wait until the Place Bid button is clickable and click it
+            place_bid_btn = WebDriverWait(driver, 20).until(
+                EC.element_to_be_clickable(
+                    (By.XPATH, "//fl-button[@fltrackinglabel='PlaceBidButton']//button[contains(text(),'Place Bid')]")
+                )
+            )
+            place_bid_btn.click()
 
-            
-            # Save to local JSON
-            if daysState:
-                submitted_bids[title] = {
-                    "title": title,
-                    "budget": project.get("budget", "N/A"),
-                    "description": project.get("description", "N/A"),
-                    "full_description": full_description,
-                    "proposal": proposal,
-                    "min_budget": min_budget,
-                    "days": days,
-                    "link": project.get("link", "")
-                }
-            else:
-                submitted_bids[title] = {
-                    "title": title,
-                    "budget": project.get("budget", "N/A"),
-                    "description": project.get("description", "N/A"),
-                    "full_description": full_description,
-                    "proposal": proposal,
-                    "min_budget": min_budget,
-                    "hours": 50,
-                    "link": project.get("link", "")
-                }
-            save_submitted_bids(submitted_bids)
-            return True
+            # Wait for redirection (URL change)
+            try:
+                WebDriverWait(driver, 10).until(lambda d: "bidCreated=true" in d.current_url)
+                print(f"✅ Proposal submitted successfully! Budget: {min_budget}, Time: {'5 days' if period_type == 'days' else '50 hours'}")
+
+                # Save submitted bid
+                if daysState:
+                    submitted_bids[title] = {
+                        "title": title,
+                        "budget": project.get("budget", "N/A"),
+                        "description": project.get("description", "N/A"),
+                        "full_description": full_description,
+                        "proposal": proposal,
+                        "min_budget": min_budget,
+                        "days": days,
+                        "link": project.get("link", "")
+                    }
+                else:
+                    submitted_bids[title] = {
+                        "title": title,
+                        "budget": project.get("budget", "N/A"),
+                        "description": project.get("description", "N/A"),
+                        "full_description": full_description,
+                        "proposal": proposal,
+                        "min_budget": min_budget,
+                        "hours": 50,
+                        "link": project.get("link", "")
+                    }
+                save_submitted_bids(submitted_bids)
+                return True
+
+            except TimeoutException:
+                print("⚠️ Bid submission not confirmed. Retrying or marking skipped.")
+                mark_skipped(project, "Bid not confirmed (no redirect with bidCreated=true)")
+                return False
+
         except Exception as e:
             print("⚠️ Could not click Place Bid button:", e)
-            mark_skipped(project, "Could not place bid")
+            mark_skipped(project, "Could not place bid due to exception")
             return False
-
 
     except Exception as e:
         print("❌ Proposal skipped successfully!")

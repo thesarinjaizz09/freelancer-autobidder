@@ -5,8 +5,15 @@ from openai import OpenAI
 
 load_dotenv()
 
+MAX_PROPOSAL_LENGTH = 1500
 API_KEY = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=API_KEY)
+
+router_client = OpenAI(
+  base_url="https://openrouter.ai/api/v1",
+  api_key=os.getenv("OPENROUTER_API_KEY"),
+)
+
 
 # AlphaFusion Corporation profile
 ALPHAFUSION_PROFILE = """
@@ -47,7 +54,7 @@ Use this company profile for context:
 {ALPHAFUSION_PROFILE}
 
 Follow these rules strictly:
-- Keep total length close to 1500 characters.
+- Keep total length smaller than 1500 characters.
 - Start with a short greeting: 'Hello,' (no client name).
 - Maintain a confident, objective tone—no unnecessary gratitude (avoid phrases like "thank you for considering").
 - Summarize AlphaFusion’s relevant expertise, past work, and credibility clearly.
@@ -60,15 +67,27 @@ Follow these rules strictly:
 - Do not include any extra commentary or explanation—return only the final polished proposal text.
 - Avoid pleasantries like “thank you for considering” or “we appreciate your time.”
 - Return only the final proposal text without extra commentary.
+- Do NOT include any special tokens such as <begin_of_sentence>, <end_of_sentence>, or similar markers.
+Return plain text only.
+
 """
 
-        # test = 100/0
-        resp = client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role":"user","content":prompt}],
-            max_tokens=400,
-        )
-        return resp.choices[0].message.content.strip()
+        completion = router_client.chat.completions.create(model="deepseek/deepseek-chat-v3.1:free",messages=[
+        {"role": "system", "content": "You are an experienced corporate proposal writer representing **AlphaFusion Corporation**, a leader in AI, software engineering, automation, and cybersecurity."},
+        {"role": "user", "content": prompt}])
+
+        response = completion.choices[0].message.content
+        response = response.strip()
+        # Hard truncate if necessary
+        if len(response) > MAX_PROPOSAL_LENGTH:
+            response = response[:MAX_PROPOSAL_LENGTH].rsplit('.', 1)[0] + '.'
+        return response
+        # resp = client.chat.completions.create(
+        #     model="gpt-5-mini",
+        #     messages=[{"role":"user","content":prompt}],
+        #     max_tokens=400,
+        # )
+        # return resp.choices[0].message.content.strip()
 
     except Exception as e:
         print(f"⚠️ AI proposal generation failed: {e}")

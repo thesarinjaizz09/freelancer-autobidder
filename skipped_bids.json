@@ -1415,5 +1415,995 @@
             "HTML",
             "Debugging"
         ]
+    },
+    "Anonymous Incident Reporting Web App": {
+        "title": "Anonymous Incident Reporting Web App",
+        "link": "https://www.freelancer.in/projects/web-development/Anonymous-Incident-Reporting-Web-App",
+        "budget": "Budget $1,500 – 3,000 USD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "Requirements Specification – Web Application for Anonymous Incident Reporting 1. Project Objective Development of a secure and GDPR-compliant web application through which affected individuals or third parties can anonymously report and document incidents. The goal is to provide an easy-to-use, low-barrier, and mobile-friendly solution that works in the… more",
+        "skills": [
+            "JavaScript",
+            "Mobile App Development",
+            "HTML5",
+            "Node.js",
+            "Web Development"
+        ]
+    },
+    "Modern Tradesman Website Build": {
+        "title": "Modern Tradesman Website Build",
+        "link": "https://www.freelancer.in/projects/web-design/Modern-Tradesman-Website-Build",
+        "budget": "Budget $250 – 750 AUD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "I’m looking for a skilled developer–designer who can create a modern, high-converting informational website aimed at plumbers and other tradies. The goal is to build a clean, mobile-friendly, trustworthy online presence that helps these small businesses get found on Google and convert visitors into phone calls or inquiries. Scope of Work Structure: Core… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "Graphic Design",
+            "SEO",
+            "Mobile App Development"
+        ]
+    },
+    "Senior Full Stack Team Lead (Claude Code–First | Django + Angular | Upwork Tracker Only)": {
+        "title": "Senior Full Stack Team Lead (Claude Code–First | Django + Angular | Upwork Tracker Only)",
+        "link": "https://www.freelancer.in/projects/angular/Senior-Full-Stack-Team-Lead",
+        "budget": "Budget $3,000 – 5,000 USD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "Senior Full Stack Team Lead (Claude Code–First | Django + Angular | Upwork Tracker Only) Important: This is a full-time, exclusive position (Monday–Friday, 9:00–18:00 CET). Upwork hourly tracking is mandatory. Manual time tracking is not allowed. We are seeking an experienced Senior Full Stack Team Lead to code and manage a small, high-performance… more",
+        "skills": [
+            "Python",
+            "Django",
+            "Angular",
+            "Celery"
+        ]
+    },
+    "Build a Full-Stack Social Media Platform for Engineers (Next.js + Supabase)": {
+        "title": "Build a Full-Stack Social Media Platform for Engineers (Next.js + Supabase)",
+        "link": "https://www.freelancer.in/projects/nextjs/Build-Full-Stack-Social-Media",
+        "budget": "Budget $30 – 250 USD",
+        "reason": "Already bid previously",
+        "description": "I’m ready to roll out the first, lightweight version of EngineersHub—a bilingual (English / Arabic) social and professional network for students, engineers, and companies. For this initial milestone I need the essentials in place, not the full feature set. Scope of this MVP • Codebase in Next.js (latest) with Supabase for auth, data, and real-time updates, styled in… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Mobile App Development",
+            "PhoneGap",
+            "Full Stack Development"
+        ]
+    },
+    "No-Code Financial Document Analysis Website": {
+        "title": "No-Code Financial Document Analysis Website",
+        "link": "https://www.freelancer.in/projects/web-development/Code-Financial-Document-Analysis-Website",
+        "budget": "Budget ₹1,500 – 12,500 INR",
+        "reason": "Already bid previously",
+        "description": "Title: Build a No-Code Website to Analyze Financial Documents with Subscription Plans Description: I need a fully functional, professionally designed website that analyzes financial documents (e.g., balance sheets, income statements) and provides: A summary Key facts Financial ratios It should also have user registration, pricing plans (subscription system), and… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "Graphic Design",
+            "SEO",
+            "HTML"
+        ]
+    },
+    "AI Consulting to Enhance CX": {
+        "title": "AI Consulting to Enhance CX",
+        "link": "https://www.freelancer.in/projects/ai-consulting/Consulting-Enhance",
+        "budget": "Budget ₹750 – 1,250 INR per hour",
+        "reason": "Already bid previously",
+        "description": "I’m looking for hands-on AI consulting that zeroes in on one overarching goal: improve our customer experience. I’d like your help to examine where artificial intelligence can add real value—whether through smarter customer service, sharper data insights, or streamlined operations—then outline exactly how to make it happen. Here’s what I need from you: • A brief… more",
+        "skills": [
+            "Customer Experience",
+            "AI Consulting",
+            "AI Text-to-speech",
+            "AI Text-to-text",
+            "AI Chatbot Development"
+        ]
+    },
+    "E-Commerce Website Development from Scratch": {
+        "title": "E-Commerce Website Development from Scratch",
+        "link": "https://www.freelancer.in/projects/css/Commerce-Website-Development-from-39905945",
+        "budget": "Budget ₹2,500 – 5,000 INR",
+        "reason": "Already bid previously",
+        "description": "We are looking for a talented web developer to build a professional e-commerce website. The project will include both frontend and backend development, with a focus on smooth user experience, responsive design, and secure functionality. Freshers are welcome to apply. Project Requirements: Frontend: Clean, responsive, and interactive interface using… more",
+        "skills": [
+            "PHP",
+            "Python",
+            "SEO",
+            "CSS",
+            "MySQL"
+        ]
+    },
+    "Odoo Email Bounce Detection": {
+        "title": "Odoo Email Bounce Detection",
+        "link": "https://www.freelancer.in/projects/odoo/Odoo-Email-Bounce-Detection",
+        "budget": "Budget $30 – 250 NZD",
+        "reason": "Already bid previously",
+        "description": "I need a small enhancement added to my Odoo Community-based Helpdesk app so I can see when a customer never actually receives a reply. Right now Odoo fires off the message from notification@…, but if the recipient server rejects or bounces it, nothing is shown back in the ticket. Scope (keep it lean and focused): • Add a lightweight Python module… more",
+        "skills": [
+            "Python",
+            "Django",
+            "Software Architecture",
+            "ERP",
+            "Email Handling"
+        ]
+    },
+    "SmartWaste: A Technology-Based Smart Waste Management System": {
+        "title": "SmartWaste: A Technology-Based Smart Waste Management System",
+        "link": "https://www.freelancer.in/projects/api-developmet/SmartWaste-Technology-Based-Smart-Waste",
+        "budget": "Budget $15 – 25 USD per hour",
+        "reason": "Already bid previously",
+        "description": "Project Title: SmartWaste: A Technology-Based Smart Waste Management System 1. Executive Summary: SmartWaste is an innovative tech solution designed to solve the problem of poor waste management in urban areas. It uses IoT (Internet of Things) sensors, mobile applications, and data analytics to monitor, collect, and manage waste efficiently. Our goal is… more",
+        "skills": [
+            "Mobile App Development",
+            "Cloud Computing",
+            "Software Development",
+            "Web Development",
+            "Data Analytics"
+        ]
+    },
+    "Bluetooth Thermal Printer Integration": {
+        "title": "Bluetooth Thermal Printer Integration",
+        "link": "https://www.freelancer.in/projects/bluetooth/Bluetooth-Thermal-Printer-Integration",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "My shop-maintenance app already runs on both iOS and Android. I now need a straightforward way to send receipts to a mobile, handheld thermal printer over Bluetooth. What I’m after is a lean, drop-in module (or clear sample project) that: • discovers a paired Bluetooth thermal printer, • connects reliably, and • prints a simple text receipt (logo line, item list… more",
+        "skills": [
+            "Mobile App Development",
+            "Android",
+            "Arduino",
+            "Software Development",
+            "Bluetooth Low Energy (BLE)"
+        ]
+    },
+    "Autotask Ticketing Configuration & Integrations": {
+        "title": "Autotask Ticketing Configuration & Integrations",
+        "link": "https://www.freelancer.in/projects/autotask/Autotask-Ticketing-Configuration",
+        "budget": "Budget £3,000 – 5,000 GBP",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "I’m ready to move our service desk onto Autotask and need an expert who can turn the platform into a streamlined, fully integrated ticketing engine. Core objective • Transform the default Autotask ticketing module into a clear, efficient workflow that routes issues to the right queues, enforces SLAs, and makes status updates obvious to both technicians and… more",
+        "skills": [
+            "PHP",
+            "Customer Support",
+            "Software Architecture",
+            "MySQL",
+            "HTML"
+        ]
+    },
+    "Modern Appointment Website Design": {
+        "title": "Modern Appointment Website Design",
+        "link": "https://www.freelancer.in/projects/web-design/Modern-Appointment-Website-Design",
+        "budget": "Budget $30 – 250 USD",
+        "reason": "Already bid previously",
+        "description": "My goal is to launch a modern, minimalist site for a small, single-location business—think cosy café or local dental practice—that lets visitors book appointments effortlessly and find key information at a glance. The central pieces are: • A seamless appointment-booking system (calendar view, time-slot selection, e-mail confirmations). • A straightforward contact… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "Graphic Design",
+            "SEO",
+            "HTML"
+        ]
+    },
+    "CodeIgniter Complete SEO Integration & Tracking - budget is Rs. 1500 Fixed, Remote on Any Desk": {
+        "title": "CodeIgniter Complete SEO Integration & Tracking - budget is Rs. 1500 Fixed, Remote on Any Desk",
+        "link": "https://www.freelancer.in/projects/backend-development/CodeIgniter-Complete-SEO-Integration",
+        "budget": "Budget ₹600 – 1,500 INR",
+        "reason": "Already bid previously",
+        "description": "We need an experienced CodeIgniter PHP developer to integrate our SEO Management and Blog SEO sections with the database on www.niveshkaro.com (under development). Currently, these admin panel sections are not updating on frontend/backend. Additionally, you'll implement Schema markup, Google Analytics, Search Console, and Pixel codes… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "SEO",
+            "Codeigniter",
+            "MySQL"
+        ]
+    },
+    "University Portal and IT Assistant AI Chatbot": {
+        "title": "University Portal and IT Assistant AI Chatbot",
+        "link": "https://www.freelancer.in/projects/ai-chatbot-development/University-Portal-Assistant-Chatbot",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "We are looking for a skilled web developer / AI developer to create a university website and student portal (for a fictional university) that includes an AI-powered chatbot as its main functional feature. The chatbot will serve as an IT Helpdesk Assistant, trained on provided PDF guides to help students resolve technical issues such as Wi-Fi connection, email… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Python",
+            "Website Design",
+            "Graphic Design"
+        ]
+    },
+    "Telegram Crypto Payment Bot": {
+        "title": "Telegram Crypto Payment Bot",
+        "link": "https://www.freelancer.in/projects/nodejs/Telegram-Crypto-Payment-Bot",
+        "budget": "Budget $10 – 30 USD",
+        "reason": "Already bid previously",
+        "description": "+++ Telegram Bot Developer Needed (Crypto Payment + KYC + Private Group Access) I’m looking for an experienced Telegram Bot Developer to create a fully automated system that manages crypto payments, KYC verification, and private group access. => Main Functions 1. Crypto Payment Integration (via NOWPayments) The bot should allow users to… more",
+        "skills": [
+            "PHP",
+            "Python",
+            "Software Architecture",
+            "MySQL",
+            "Node.js"
+        ]
+    },
+    "Private Linux Training Sessions": {
+        "title": "Private Linux Training Sessions",
+        "link": "https://www.freelancer.in/projects/system-administration/Private-Linux-Training-Sessions",
+        "budget": "Budget $10 – 30 USD",
+        "reason": "Already bid previously",
+        "description": "I’m a complete beginner and want to get comfortable at the command line through a short series of one-on-one sessions with an expert Linux administrator. What I’d like to cover first: • Basic commands and utilities • File system structure • User and group management • A quick overview of full management best practices so I know where to go next Because I… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Linux",
+            "Apache",
+            "Technical Support"
+        ]
+    },
+    "React Web App SEO Boost": {
+        "title": "React Web App SEO Boost",
+        "link": "https://www.freelancer.in/projects/web-development/React-Web-App-SEO-Boost",
+        "budget": "Budget ₹12,500 – 37,500 INR",
+        "reason": "Already bid previously",
+        "description": "I need a thorough SEO overhaul on our single-page React web application. The immediate objective is to improve Google rankings for our branded keywords and, in turn, strengthen overall organic visibility. Scope of work • Run a full technical audit: crawlability, index status, Core Web Vitals, Lighthouse scores, XML sitemap, robots.txt, canonical tags and structured… more",
+        "skills": [
+            "Internet Marketing",
+            "SEO",
+            "Link Building",
+            "Social Networking",
+            "Analytics"
+        ]
+    },
+    "Basic Website Text Scraper Needed": {
+        "title": "Basic Website Text Scraper Needed",
+        "link": "https://www.freelancer.in/projects/data-extraction/Basic-Website-Text-Scraper-Needed",
+        "budget": "Budget $10 – 30 USD",
+        "reason": "Could not place bid",
+        "description": "I’m looking for a concise, no-frills solution that pulls plain text from a small set of websites I will specify. The job is strictly about text—no images or media files. Deliverables: • A lightweight script (Python is ideal, but I’m open to another language if it runs easily on Windows or Linux). • Simple configuration so I can add or remove target URLs without touching the… more",
+        "skills": [
+            "PHP",
+            "Python",
+            "Linux",
+            "Data Processing",
+            "Web Scraping"
+        ]
+    },
+    "مطورون ومحررون لمشاريع ذكاء اصطناعي": {
+        "title": "مطورون ومحررون لمشاريع ذكاء اصطناعي",
+        "link": "https://www.freelancer.in/projects/ai-chatbot-development/project-39906105",
+        "budget": "Budget $10 – 30 USD",
+        "reason": "Could not place bid",
+        "description": "أبحث عن شريك موهوب يساعدني في المراحل الأولى من إنشاء مجموعة خدمات تعتمد على الذكاء الاصطناعي. الأولوية الآن للبرمجة، فهي المهارة الأهم بالنسبة لي، لكن من يجيد كتابة المقالات التقنية أو بناء واجهات دردشة ذكية سيحصل على فرص عمل لاحقة داخل المشروع. ما أحتاجه في هذه المرحلة الأولية: • تنفيذ كود نظيف لموقع ويب بسيط يُظهر قدراتنا وخدماتنا المستقبلية. • إعداد نموذج دردشة ذكاء اصطناعي تجريبي (API جاهز أو مفتوح المصدر مقبول) مع واجهة أمامية أساسية. • صياغة مقالة… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "Software Architecture",
+            "HTML",
+            "Programming"
+        ]
+    },
+    "Website Migration with ERP Integrations": {
+        "title": "Website Migration with ERP Integrations",
+        "link": "https://www.freelancer.in/projects/api-integration/Website-Migration-with-ERP-Integrations",
+        "budget": "Budget $50+ USD per hour",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "I need my existing B2C and B2B sites moved from a niche, independent British platform to either Shopify or Magento. The new builds must mirror every custom function already in place and feel seamless to current users while opening the door to future growth. Core scope • Replicate all front-end and back-office features currently live, including the unique B2B… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "Magento",
+            "eCommerce",
+            "ERP"
+        ]
+    },
+    "E-Commerce Website & Admin Overhaul": {
+        "title": "E-Commerce Website & Admin Overhaul",
+        "link": "https://www.freelancer.in/projects/web-development/Commerce-Website-Admin-Overhaul",
+        "budget": "Budget ₹37,500 – 75,000 INR",
+        "reason": "Could not place bid",
+        "description": "I’m looking for a developer who can transform an existing e-commerce template into a polished, production-ready site with a fully featured admin panel. The template gives us a head start, but I need a complete visual and UX overhaul—feel free to rethink page layouts, typography, color palette, and component styling so the store presents as a unique brand rather… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "Graphic Design",
+            "CSS",
+            "HTML"
+        ]
+    },
+    "dApp & MERN Dashboard Build": {
+        "title": "dApp & MERN Dashboard Build",
+        "link": "https://www.freelancer.in/projects/mern/dApp-MERN-Dashboard-Build",
+        "budget": "Budget $25 – 50 USD per hour",
+        "reason": "Could not place bid",
+        "description": "I am starting a decentralized application and need a strong developer who can own both the blockchain layer and a MERN-based analytics dashboard that sits on top of it. The core of the work is connecting on-chain data to an intuitive React interface, persisting the right pieces in MongoDB, and exposing them through a clean Node/Express API. Tech scope… more",
+        "skills": [
+            "JavaScript",
+            "NoSQL Couch & Mongo",
+            "Node.js",
+            "AngularJS",
+            "React.js"
+        ]
+    },
+    "Custom Sales Panel Build": {
+        "title": "Custom Sales Panel Build",
+        "link": "https://www.freelancer.in/projects/web-development/Custom-Sales-Panel-Build",
+        "budget": "Budget $10 – 30 CAD",
+        "reason": "Could not place bid",
+        "description": "I'm looking to develop a sales panel for my The Isle Version Legacy server, linked to Steam and the game The Isle Version Legacy. Key Requirements: - The panel should focus on payment processing. - Include payment methods such as credit/debit cards, PayPal, and bank transfers. - Provide full access to all functions for administrators. Ideal Skills and… more",
+        "skills": [
+            "PHP",
+            "MySQL",
+            "HTML",
+            "Web Development",
+            "Payment Gateway Integration"
+        ]
+    },
+    "AI Compliance Self-Assessment Web App MVP": {
+        "title": "AI Compliance Self-Assessment Web App MVP",
+        "link": "https://www.freelancer.in/projects/api-integration/Compliance-Self-Assessment-Web-App",
+        "budget": "Budget $5,000 – 10,000 AUD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "Title: Build MVP of AI-Powered Compliance Self-Assessment Web App (ChatGPT + Web) Project Summary: We are seeking an experienced full-stack developer to build the MVP (Minimum Viable Product) of an AI-based compliance self-assessment portal. The tool will allow users to upload policy or evidence documents, and through ChatGPT API integration… more",
+        "skills": [
+            "Node.js",
+            "PostgreSQL",
+            "Docker",
+            "Web Development",
+            "Full Stack Development"
+        ]
+    },
+    "Simulated Data MATLAB Analysis": {
+        "title": "Simulated Data MATLAB Analysis",
+        "link": "https://www.freelancer.in/projects/matlab/Simulated-Data-MATLAB-Analysis",
+        "budget": "Budget ₹600 – 1,500 INR",
+        "reason": "Already bid previously",
+        "description": "I need a hand turning a batch of simulated data into clear, well-documented insights inside MATLAB. The task is strictly data analysis—no hardware, real-time feeds, or image processing involved—so the focus stays on writing clean code that crunches numbers and visualises trends straight from the files I provide. What I expect: • A set of well-commented… more",
+        "skills": [
+            "Matlab and Mathematica",
+            "Algorithm",
+            "Statistics",
+            "Mathematics",
+            "Statistical Analysis"
+        ]
+    },
+    "Framer Lead-Gen Landing Page": {
+        "title": "Framer Lead-Gen Landing Page",
+        "link": "https://www.freelancer.in/projects/framer/Framer-Lead-Gen-Landing-Page",
+        "budget": "Budget ₹12,500 – 37,500 INR",
+        "reason": "Could not place bid",
+        "description": "I need a clean, conversion-focused landing page built entirely in Framer. The single goal is lead generation, so every section—from headline and hero image to the form and final call-to-action—should guide visitors toward sharing their details. Here’s what I’m looking for: • Concept & wireframe: a quick visual outline so we can agree on structure and flow. •… more",
+        "skills": [
+            "Website Design",
+            "Graphic Design",
+            "CSS",
+            "HTML",
+            "UI / User Interface"
+        ]
+    },
+    "Home Page Website Build": {
+        "title": "Home Page Website Build",
+        "link": "https://www.freelancer.in/projects/css/Home-Page-Website-Build",
+        "budget": "Budget ₹12,500 – 37,500 INR",
+        "reason": "Already bid previously",
+        "description": "I’m ready to get the very first piece of my website live—a polished, high-converting Home page. While the full scope of pages is still evolving, this front page needs to set the visual and technical foundation for everything that follows. Platform isn’t locked in yet, so if you’re most comfortable in WordPress, Shopify, or a straight custom HTML/CSS stack, let’s explore… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "CSS",
+            "HTML"
+        ]
+    },
+    "Django REST API For Product Catalog": {
+        "title": "Django REST API For Product Catalog",
+        "link": "https://www.freelancer.in/projects/api-developmet/Django-REST-API-For-Product",
+        "budget": "Budget ₹12,500 – 37,500 INR",
+        "reason": "Already bid previously",
+        "description": "I’m building a new product-focused application and need a solid backend, written in Python with Django and the Django REST Framework, that cleanly exposes a JSON API. The core objective is straightforward: create well-structured endpoints so my frontend can list, create, update and delete product records quickly and securely. Here is what I expect: • A Django… more",
+        "skills": [
+            "Python",
+            "Django",
+            "PostgreSQL",
+            "JSON",
+            "Docker"
+        ]
+    },
+    "Create option trading bot for Indian stock market -- 2": {
+        "title": "Create option trading bot for Indian stock market -- 2",
+        "link": "https://www.freelancer.in/projects/python/Create-option-trading-bot-for",
+        "budget": "Budget ₹10,000 – 100,000 INR",
+        "reason": "Already bid previously",
+        "description": "Below is the strategy ## Strategy Name: **Chandelier Breakout with Deviation Trend Confirmation (Final Logic with Trend Change Filter)** --- ### **Long Entry Conditions** Enter a **Long Position** when **any one** of the following conditions is satisfied: --- #### **Condition 1 – CE Buy + Gap Candle Confirmation** 1. A **Chandelier Exit (CE) Buy Signal** is… more",
+        "skills": [
+            "Python",
+            "Algorithm",
+            "Trading",
+            "Market Analysis",
+            "Bot Development"
+        ]
+    },
+    "Convert MT4 Fibonacci to Pine": {
+        "title": "Convert MT4 Fibonacci to Pine",
+        "link": "https://www.freelancer.in/projects/pine-script/Convert-Fibonacci-Pine",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "I have a custom Fibonacci-based indicator written in MQL4 that automatically plots the retracement and extension levels from the most recent swing highs and lows. I need the same logic rebuilt in TradingView’s Pine Script v5 so I can continue analysing directly on that platform. Key behaviours to match: • Automatic plotting of Fibonacci levels exactly as the… more",
+        "skills": [
+            "PHP",
+            "C Programming",
+            "Algorithm",
+            "Software Architecture",
+            "Metatrader"
+        ]
+    },
+    "Guest Login & Checkout Enhancement -- 2": {
+        "title": "Guest Login & Checkout Enhancement -- 2",
+        "link": "https://www.freelancer.in/projects/php/Guest-Login-Checkout-Enhancement",
+        "budget": "Budget ₹1,000 – 3,000 INR",
+        "reason": "Already bid previously",
+        "description": "My Laravel + Node.js store already lets visitors pay without registering, yet the transition from product page to payment feels clunky. I want a smoother path that introduces a lightweight “Guest Login” step without forcing full account creation. Here’s the experience I’m after: when someone clicks “Buy Now” or drops an item into the cart, a small overlay should… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Node.js",
+            "Laravel",
+            "Web Development"
+        ]
+    },
+    "Fix Syntax Error in Function": {
+        "title": "Fix Syntax Error in Function",
+        "link": "https://www.freelancer.in/projects/debugging/Fix-Syntax-Error-Function",
+        "budget": "Budget ₹600 – 1,500 INR",
+        "reason": "Already bid previously",
+        "description": "I have a Python script that processes data, but a syntax error inside one of the function definitions is blocking execution. I need someone to: • locate and correct the offending line(s) • make sure the function runs without raising further syntax issues • give me a brief note on what was wrong and how you fixed it The codebase is small, so this should be a… more",
+        "skills": [
+            "PHP",
+            "Python",
+            "Linux",
+            "Software Architecture",
+            "Debugging"
+        ]
+    },
+    "Cross-Platform IPTV App & Panel": {
+        "title": "Cross-Platform IPTV App & Panel",
+        "link": "https://www.freelancer.in/projects/mobile-app-development/Cross-Platform-IPTV-App-Panel",
+        "budget": "Budget $30 – 250 USD",
+        "reason": "Already bid previously",
+        "description": "I’m building an end-to-end IPTV solution and need a developer who can deliver White-label native-feeling apps. IMPORTANT, I'm not paying anything before task is completed so don't ask for payment releasements. - must work on Android(TV& Phone), iOS and be able to be uploaded without rejection to Google Play store Apple store, Samsung/LG all tv stores… more",
+        "skills": [
+            "JavaScript",
+            "Python",
+            "Mobile App Development",
+            "Android",
+            "CSS"
+        ]
+    },
+    "Update two Android mobile app.App must target Android 15(API level 35) and support 16 KB memory page sizes or higher": {
+        "title": "Update two Android mobile app.App must target Android 15(API level 35) and support 16 KB memory page sizes or higher",
+        "link": "https://www.freelancer.in/projects/android-app-development/Update-two-Android-mobile-app",
+        "budget": "Budget ₹600 – 1,500 INR",
+        "reason": "Already bid previously",
+        "description": "I have a fully-functional Android application that currently targets an older SDK. All I need is a clean upgrade to the latest stable Android version so the project builds without warnings in the newest Android Studio, passes Play Console checks, and runs smoothly on recent devices. Scope (kept intentionally lean to match my small budget): • Bump… more",
+        "skills": [
+            "Java",
+            "Mobile App Development",
+            "Android",
+            "Software Architecture",
+            "Android App Development"
+        ]
+    },
+    "Fix Flutter Thermal Printing": {
+        "title": "Fix Flutter Thermal Printing",
+        "link": "https://www.freelancer.in/projects/flutter/Fix-Flutter-Thermal-Printing",
+        "budget": "Budget ₹12,500 – 37,500 INR",
+        "reason": "Could not place bid",
+        "description": "I have a Flutter-based shop-maintenance app where I already wired in thermal printing, but the Bluetooth printer never receives the print command. Pairing also not works and no errors are thrown—yet nothing comes out. I’m not completely sure whether every required printer package, permission, or configuration is in place, so I need a focused bug-fix: •… more",
+        "skills": [
+            "Mobile App Development",
+            "Dart",
+            "Debugging",
+            "Software Development",
+            "Bluetooth Low Energy (BLE)"
+        ]
+    },
+    "Manual Payment Gateway Integration": {
+        "title": "Manual Payment Gateway Integration",
+        "link": "https://www.freelancer.in/projects/payment-gateway-integration/Manual-Payment-Gateway-Integration",
+        "budget": "Budget $10 – 30 USD",
+        "reason": "Could not place bid",
+        "description": "I operate a sports-betting platform and need a manual payment gateway built around the bKash wallet. The flow should let players submit deposits, request withdrawals, and review a clear transaction history, while I confirm or reject each request from an admin dashboard. Because the site handles multiple currencies, the module has to record amounts in users’… more",
+        "skills": [
+            "PHP",
+            "MySQL",
+            "HTML",
+            "Software Development",
+            "Laravel"
+        ]
+    },
+    "EMA Wave & ORB EA and 3 time frame confirmation": {
+        "title": "EMA Wave & ORB EA and 3 time frame confirmation",
+        "link": "https://www.freelancer.in/projects/mql5/EMA-Wave-ORB-time-frame",
+        "budget": "Budget $30 – 250 USD",
+        "reason": "Could not place bid",
+        "description": "I’m looking for an MQL5 developer who can turn my trading concept—an EMA-wave filter combined with an Opening Range Breakout (ORB)—into a reliable MetaTrader 5 Expert Advisor. I already have a simple EA running, but I’m open to either extending that code or starting fresh if it will be cleaner and faster; you can advise once you review the logic. Core… more",
+        "skills": [
+            "C Programming",
+            "Algorithm",
+            "Metatrader",
+            "Financial Markets",
+            "C++ Programming"
+        ]
+    },
+    "Automated Land Parcel Layout Generation ArcGIS Online/ ArcGIS Pro": {
+        "title": "Automated Land Parcel Layout Generation ArcGIS Online/ ArcGIS Pro",
+        "link": "https://www.freelancer.in/projects/arcgis/Automated-Land-Parcel-Layout-Generation",
+        "budget": "Budget $750 – 1,500 USD",
+        "reason": "Could not place bid",
+        "description": "We have multiple land parcels with unique ids which are affected by the project boundary. We need to prepare layouts of A3 size for each land parcel showing four map frames. Each map frame showing different information of the same land parcel, Map Frame 1: In this map frame only land parcel is shown with its actual total area in square meters with boundary… more",
+        "skills": [
+            "Python",
+            "Data Processing",
+            "Software Architecture",
+            "Cartography & Maps",
+            "Geospatial"
+        ]
+    },
+    "Brisbane-Based Cryptocurrency Creation (BASED IN BRISBANE OR SURROUNDING) -- 2": {
+        "title": "Brisbane-Based Cryptocurrency Creation (BASED IN BRISBANE OR SURROUNDING) -- 2",
+        "link": "https://www.freelancer.in/projects/blockchain/Brisbane-Based-Cryptocurrency-Creation-39906310",
+        "budget": "Budget $250 – 750 AUD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "Please take notice is ONLY BASED IN BRISBANE PREFERRED OR BASED IN AUSTRALIA. I’m ready to launch a cryptocurrency that can function both as a payment method and an investment vehicle, and I’d like to collaborate with a Brisbane-based blockchain specialist who can drive the technical build from concept to deployment. The core idea is straightforward:… more",
+        "skills": [
+            "Cryptography",
+            "Compliance",
+            "Blockchain",
+            "Ethereum",
+            "Smart Contracts"
+        ]
+    },
+    "Flappy-Bird Score & Tweaks": {
+        "title": "Flappy-Bird Score & Tweaks",
+        "link": "https://www.freelancer.in/projects/game-design/Flappy-Bird-Score-Tweaks",
+        "budget": "Budget £20 – 250 GBP",
+        "reason": "Already bid previously",
+        "description": "I have a lightweight Flappy-Bird–style game that runs in any modern web browser. I need someone who can both push the score sky-high and step into the code to refine it. Here’s what I’m after: • Play the current build, achieve an impressive high score, and capture the run so I can study the rhythm and timing. • Break down your winning strategy into clear… more",
+        "skills": [
+            "JavaScript",
+            "Game Design",
+            "CSS",
+            "HTML5",
+            "HTML"
+        ]
+    },
+    "Casino Slot Game Developer Needed": {
+        "title": "Casino Slot Game Developer Needed",
+        "link": "https://www.freelancer.in/projects/unity/Casino-Slot-Game-Developer-Needed",
+        "budget": "Budget $30 – 250 USD",
+        "reason": "Could not place bid",
+        "description": "We’re looking for a talented Casino Slot Game Developer to join our team and help us build exciting, high-quality slot and casino games for web and mobile platforms. You should have hands-on experience developing slot games, strong math and logic skills, and a creative eye for animations, sound, and player engagement. Responsibilities: Develop and maintain… more",
+        "skills": [
+            "JavaScript",
+            "Mobile App Development",
+            "iPhone",
+            "Unity 3D",
+            "Node.js"
+        ]
+    },
+    "Repair Apollo.io Auth in Make": {
+        "title": "Repair Apollo.io Auth in Make",
+        "link": "https://www.freelancer.in/projects/api/Repair-Apollo-Auth-Make",
+        "budget": "Budget $15 – 25 USD per hour",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "After updating my Apollo.io API key, every Make (Integromat) scenario that calls Apollo now throws an authentication error. I already replaced the key inside Make, yet the connection still fails. I need someone who knows both Apollo.io’s API and Make’s HTTP/connector modules to: • Inspect the current connection settings and pinpoint why the 401/403… more",
+        "skills": [
+            "Technical Support",
+            "Debugging",
+            "Software Development",
+            "API",
+            "HTTP"
+        ]
+    },
+    "RedM VORP Italian RP Overhaul": {
+        "title": "RedM VORP Italian RP Overhaul",
+        "link": "https://www.freelancer.in/projects/lua/RedM-VORP-Italian-Overhaul",
+        "budget": "Budget €30 – 250 EUR",
+        "reason": "Already bid previously",
+        "description": "I already have a VORP-based RedM roleplay server online; what I need now is a focused development push to turn it into a fully Italian-ready, modern experience. Scope (first 15 days) • Translate every in-game text string—this includes all prompts, chat lines, and system messages. Text translation is the top priority; UI labels and notifications should follow once… more",
+        "skills": [
+            "JavaScript",
+            "Graphic Design",
+            "Translation",
+            "SQL",
+            "Software Development"
+        ]
+    },
+    "Next.js Directory MVP (Supabase & Stripe)": {
+        "title": "Next.js Directory MVP (Supabase & Stripe)",
+        "link": "https://www.freelancer.in/projects/nextjs/Next-Directory-MVP-Supabase-Stripe",
+        "budget": "Budget $10 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "Full-Stack Developer – Directory MVP Seeking an experienced full-stack dev to build a lean MVP for a business-listing directory. Stack: Next.js 14 (App Router), React 18, Supabase (Auth/DB/Storage), TailwindCSS, Stripe, OpenAI (chatbox), Vercel (deploy). Scope: • Next.js + Tailwind setup with Framer Motion. • Supabase auth (email + socials). • CRUD for… more",
+        "skills": [
+            "SEO",
+            "Node.js",
+            "Stripe",
+            "Web Development",
+            "Full Stack Development"
+        ]
+    },
+    "Website Deployment & Hosting Setup": {
+        "title": "Website Deployment & Hosting Setup",
+        "link": "https://www.freelancer.in/projects/web-hosting/Website-Deployment-Hosting-Setup",
+        "budget": "Budget $30 – 250 CAD",
+        "reason": "Already bid previously",
+        "description": "I have a fully coded website sitting in a private repository and now need it live. Your task is limited to hosting and deployment—no feature work, no refactoring. What I need you to do • Review the existing codebase to confirm it’s production-ready. • Recommend and provision an appropriate hosting environment (shared, VPS, or dedicated—whichever you judge best… more",
+        "skills": [
+            "Cloud Computing",
+            "Website Management",
+            "Web Hosting",
+            "Web Development"
+        ]
+    },
+    "AI Process Optimization Specialist": {
+        "title": "AI Process Optimization Specialist",
+        "link": "https://www.freelancer.in/projects/data-analysis/Process-Optimization-Specialist",
+        "budget": "Budget €250 – 750 EUR",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "Our company is ready to weave practical AI into the way we work every day, and I’m looking for a specialist who can take charge of the journey—mainly through machine learning–driven process management. You will begin by analysing our current workflows, spotting repetitive or data-heavy tasks that lend themselves to automation, and outlining a clear… more",
+        "skills": [
+            "Java",
+            "Python",
+            "Software Architecture",
+            "Machine Learning (ML)",
+            "Data Analysis"
+        ]
+    },
+    "Automated Ticket Carting Module": {
+        "title": "Automated Ticket Carting Module",
+        "link": "https://www.freelancer.in/projects/selenium/Automated-Ticket-Carting-Module",
+        "budget": "Budget €1,500 – 3,000 EUR",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "I need a small, reliable script that monitors the ticketing site “Myticket” and pushes any newly released or resale tickets for a chosen event straight into the shopping cart the moment they appear. I will still complete the checkout manually; your job is limited to rapid detection and carting. Key points • Target site: Myticket (low-traffic, no public API). • Trigger: the script… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Python",
+            "Web Scraping",
+            "Software Architecture"
+        ]
+    },
+    "Instant Web scraping Automation": {
+        "title": "Instant Web scraping Automation",
+        "link": "https://www.freelancer.in/projects/web-scraping/Instant-Web-scrping-Automation",
+        "budget": "Budget €1,500 – 3,000 EUR",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "I need a fast, reliable module that watches a specific low-traffic ticketing site for newly released or resale inventory and drops those tickets straight into the cart the instant they appear. The buying step stays manual on my end; all you handle is detection and carting. Key points • Detection method: web scraping is a must—there is no API or webhook support. •… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Python",
+            "Web Scraping",
+            "Software Architecture"
+        ]
+    },
+    "Single Event Attendee Data Extraction": {
+        "title": "Single Event Attendee Data Extraction",
+        "link": "https://www.freelancer.in/projects/beautifulsoup/Single-Event-Attendee-Data-Extraction",
+        "budget": "Budget €8 – 30 EUR",
+        "reason": "Already bid previously",
+        "description": "I have a single event web page that lists every attendee, and I need those details captured once and delivered in a tidy Excel workbook. The page has no official API, so the information will have to be gathered directly from the HTML. Here’s what I expect: • All attendee-related fields that appear publicly (name, company, title, email, etc.) placed in separate, clearly… more",
+        "skills": [
+            "JavaScript",
+            "Python",
+            "Data Processing",
+            "Web Scraping",
+            "Data Mining"
+        ]
+    },
+    "Frappe Frappe ERPNext Customization & OpenCart Integration": {
+        "title": "Frappe Frappe ERPNext Customization & OpenCart Integration",
+        "link": "https://www.freelancer.in/projects/php/Frappe-Frappe-ERPNext-Customization",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "I'm seeking an experienced Frappe ERPNext developer to customize and integrate the platform with OpenCart. Key Requirements: - 2-way API Integration between ERPNext and OpenCart - Implement custom tax structures - Integrate various payment gateways - Connect shipping carriers - Ensure seamless integration with OpenCart - Add necessary features… more",
+        "skills": [
+            "PHP",
+            "Python",
+            "eCommerce",
+            "MySQL",
+            "HTML"
+        ]
+    },
+    "Spreadsheet Operational Efficiency Analysis": {
+        "title": "Spreadsheet Operational Efficiency Analysis",
+        "link": "https://www.freelancer.in/projects/data-analysis/Spreadsheet-Operational-Efficiency",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "I have a set of operational spreadsheets and need a straightforward descriptive analysis to understand where processes slow down, where resources pile up, and which steps could run more smoothly. Here’s what I need from you: • Clean and organize the raw spreadsheet data so totals, dates, and text fields line up correctly. • Produce clear summary tables… more",
+        "skills": [
+            "Python",
+            "Excel",
+            "Statistical Analysis",
+            "SPSS Statistics",
+            "Data Visualization"
+        ]
+    },
+    "Custom Web Supplier Pricing Tracker": {
+        "title": "Custom Web Supplier Pricing Tracker",
+        "link": "https://www.freelancer.in/projects/web-development/Custom-Web-Supplier-Pricing-Tracker",
+        "budget": "Budget $10 – 30 AUD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "I need a web-based tool that automatically checks and records the latest wholesale prices for all of my alcoholic-drink SKUs across multiple suppliers. The core requirement is flexibility: I want to add or remove both products and suppliers at any time from an easy-to-use dashboard, without touching code. How I see it working • I input a list of products, and the… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Python",
+            "Django",
+            "MySQL"
+        ]
+    },
+    "Build My Physical Products Online Store": {
+        "title": "Build My Physical Products Online Store",
+        "link": "https://www.freelancer.in/projects/web-development/Build-Physical-Products-Online-Store",
+        "budget": "Budget €250 – 750 EUR",
+        "reason": "Already bid previously",
+        "description": "I have summarized all requirements; please refer to the attachments. ATTENTION! Some requirements are for the future; these must be taken into account when creating the shop but do not need to be implemented immediately.",
+        "skills": [
+            "eCommerce",
+            "Website Management",
+            "Web Development",
+            "Payment Gateway Integration",
+            "Website Development"
+        ]
+    },
+    "Real-Time Team Research App MVP": {
+        "title": "Real-Time Team Research App MVP",
+        "link": "https://www.freelancer.in/projects/android/Real-Time-Team-Research-App",
+        "budget": "Budget €8 – 30 EUR",
+        "reason": "Already bid previously",
+        "description": "1. Project Overview & Goal I am a PhD researcher. I need a Minimum Viable Product (MVP) for a data collection system to study team dynamics. The focus is on creating a reliable core system for collecting essential data. The system will have two parts: A native Android application for 30 tablets to collect active (user-input) and simplified passive (sensor) data. A… more",
+        "skills": [
+            "PHP",
+            "Java",
+            "Python",
+            "Mobile App Development",
+            "Android"
+        ]
+    },
+    "Skillfolio: AI-Driven Resume Builder": {
+        "title": "Skillfolio: AI-Driven Resume Builder",
+        "link": "https://www.freelancer.in/projects/web-development/Skillfolio-Driven-Resume-Builder",
+        "budget": "Budget ₹30,000 – 35,000 INR",
+        "reason": "Already bid previously",
+        "description": "Hello, I have a custom web development requirement.Details of Project are given below. Skillfolio An AI-powered web-based resume and career assistant platform that helps job seekers build, optimize, and share their resumes instantly. Core Features Multi-Language Resume Generation : Build resumes in multiple languages. AI Job-fit Resume Generator : User pastes… more",
+        "skills": [
+            "PHP",
+            "Graphic Design",
+            "HTML",
+            "Resumes",
+            "Web Development"
+        ]
+    },
+    "Three.js/WebGL Developer for Interactive Homepage": {
+        "title": "Three.js/WebGL Developer for Interactive Homepage",
+        "link": "https://www.freelancer.in/projects/three-js/Three-WebGL-Developer-for-Interactive",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "I am looking for a highly skilled Three.js / WebGL front-end developer to build a visually striking homepage. https://pierre.co/ I am going to build similar website like above but very simple sections and effect, only animations So please carefully check the reference website, especially the animation, interaction between objects etc. I am going to make such a similar… more",
+        "skills": [
+            "JavaScript",
+            "Animation",
+            "HTML5",
+            "Typescript",
+            "Web Development"
+        ]
+    },
+    "Cross-Platform Hospital Management App": {
+        "title": "Cross-Platform Hospital Management App",
+        "link": "https://www.freelancer.in/projects/flutter/Cross-Platform-Hospital-Management-App",
+        "budget": "Budget ₹400 – 750 INR per hour",
+        "reason": "Already bid previously",
+        "description": "I need a standalone mobile application that runs smoothly on both Android and iOS devices and streamlines our day-to-day hospital operations. Core modules I want built: • Patient management for quick registration, detailed profiles, and visit history • Appointment scheduling with an intuitive calendar, reminders, and easy rescheduling • Billing & invoicing that can… more",
+        "skills": [
+            "PHP",
+            "Mobile App Development",
+            "iPhone",
+            "Android",
+            "Node.js"
+        ]
+    },
+    "Review Reply SaaS Build": {
+        "title": "Review Reply SaaS Build",
+        "link": "https://www.freelancer.in/projects/react-native/Review-Reply-SaaS-Build",
+        "budget": "Budget $750 – 1,500 NZD",
+        "reason": "Bid not confirmed (no redirect with bidCreated=true)",
+        "description": "I’m looking for an experienced developer (or small team) to build an MVP for ReviewHub, a SaaS product that lets business owners connect their Google Business and Facebook Page accounts to view, filter, and respond to customer reviews in one place. The product has two interfaces sharing one backend: -Mobile App (React Native / Expo) – fast and simple for… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Website Design",
+            "Mobile App Development",
+            "HTML"
+        ]
+    },
+    "Project Management Web App": {
+        "title": "Project Management Web App",
+        "link": "https://www.freelancer.in/projects/full-stack-development/Project-Management-Web-App",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Bid not confirmed (no redirect with bidCreated=true)",
+        "description": "I need a full-stack developer (or small team) to create a browser-based project management application focused on task tracking, team collaboration, and insightful reporting for desktop users. The core workflow should let me set up projects, break them into tasks and subtasks, assign owners, set due dates, and follow progress through visual cues such as… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "C# Programming",
+            "HTML",
+            "Node.js"
+        ]
+    },
+    "Real Estate Management System Development": {
+        "title": "Real Estate Management System Development",
+        "link": "https://www.freelancer.in/projects/web-development/Real-Estate-Management-System",
+        "budget": "Budget $1,500 – 3,000 USD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "Real Estate Management System – Software Requirements Document (Updated) 1. Project Overview Company: AL Masriya for Housing and Touristic Development Scope: Develop a professional, centralized web-based internal system for managing all real estate operations, including sales, clients, contracts, payments, maintenance, handover, cancellations, and… more",
+        "skills": [
+            "Python",
+            "Django",
+            "React.js",
+            "Web Development",
+            "Database Management"
+        ]
+    },
+    "Develop a Custom Project Management Web App (Task Tracking, Team Collaboration & Reports)": {
+        "title": "Develop a Custom Project Management Web App (Task Tracking, Team Collaboration & Reports)",
+        "link": "https://www.freelancer.in/projects/full-stack-development/Project-Management-Web-App",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "I need a full-stack developer (or small team) to create a browser-based project management application focused on task tracking, team collaboration, and insightful reporting for desktop users. The core workflow should let me set up projects, break them into tasks and subtasks, assign owners, set due dates, and follow progress through visual cues such as… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "C# Programming",
+            "HTML",
+            "Node.js"
+        ]
+    },
+    "Guided WABA Embedded Signup Setup": {
+        "title": "Guided WABA Embedded Signup Setup",
+        "link": "https://www.freelancer.in/projects/api/Guided-WABA-Embedded-Signup-Setup",
+        "budget": "Budget $30 – 250 USD",
+        "reason": "Already bid previously",
+        "description": "I’ve already created both my Facebook Developer account and my WhatsApp Business Account, but the coexistence WABA “embedded signup” flow still trips me up. My goal is to follow the Facebook guide… more",
+        "skills": [
+            "Software Architecture",
+            "Web Development",
+            "API",
+            "Facebook Development",
+            "n8n"
+        ]
+    },
+    "Professional E-Commerce Website Development": {
+        "title": "Professional E-Commerce Website Development",
+        "link": "https://www.freelancer.in/projects/flask/Professional-Commerce-Website",
+        "budget": "Budget ₹75,000 – 150,000 INR",
+        "reason": "Already bid previously",
+        "description": "We are looking for a talented web developer to build a professional e-commerce website. The project will include both frontend and backend development, with a focus on smooth user experience, responsive design, and secure functionality. Freshers are welcome to apply. Project Requirements: Frontend: Clean, responsive, and interactive interface using… more",
+        "skills": [
+            "PHP",
+            "Python",
+            "CSS",
+            "Django",
+            "MySQL"
+        ]
+    },
+    "Comprehensive SaaS UI/UX": {
+        "title": "Comprehensive SaaS UI/UX",
+        "link": "https://www.freelancer.in/projects/ui-design/Comprehensive-SaaS",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "Design a production-ready UI/UX in Figma: responsive layouts, components, styles, and annotated flows. Provide a structured library and developer-ready specs. NDA applies; fixed milestones; full handover with assigned intellectual property.",
+        "skills": [
+            "Website Design",
+            "Graphic Design",
+            "User Interface / IA",
+            "UX / User Experience",
+            "UI / User Interface"
+        ]
+    },
+    "SmartWaste: A Technology-Based Smart Waste Management System - 22/10/2025 07:03 EDT": {
+        "title": "SmartWaste: A Technology-Based Smart Waste Management System - 22/10/2025 07:03 EDT",
+        "link": "https://www.freelancer.in/projects/api-developmet/SmartWaste-Technology-Based-Smart-Waste-39906445",
+        "budget": "Budget $15 – 25 USD per hour",
+        "reason": "Already bid previously",
+        "description": "Project Title: SmartWaste: A Technology-Based Smart Waste Management System 1. Executive Summary: SmartWaste is an innovative tech solution designed to solve the problem of poor waste management in urban areas. It uses IoT (Internet of Things) sensors, mobile applications, and data analytics to monitor, collect, and manage waste efficiently. Our goal is… more",
+        "skills": [
+            "Mobile App Development",
+            "Cloud Computing",
+            "Software Development",
+            "Web Development",
+            "Data Analytics"
+        ]
+    },
+    "Web-Based MS SQL Accounting Database": {
+        "title": "Web-Based MS SQL Accounting Database",
+        "link": "https://www.freelancer.in/projects/asp/Web-Based-SQL-Accounting-Database",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Cannot bid on this project due to restrictions",
+        "description": "I need a quick-turnaround build of a small MS SQL database with a browser-based interface that lets my accounting team log, review, and report on the work they perform for each client. Core schema • Clients: name, address, email, phone, contact • Staff: name, employee #, location • Offices: name, address • Services: description, standard fee Web interface •… more",
+        "skills": [
+            "PHP",
+            "ASP",
+            "SQL",
+            "Microsoft Access",
+            "ASP.NET"
+        ]
+    },
+    "Codeigniter 4 - Website Amendment": {
+        "title": "Codeigniter 4 - Website Amendment",
+        "link": "https://www.freelancer.in/projects/php/Codeigniter-Website-Amendment",
+        "budget": "Budget $12 – 30 SGD",
+        "reason": "Already bid previously",
+        "description": "Work with ftp only. Amend on existing ecommerce website.",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "Website Design",
+            "CSS",
+            "Codeigniter"
+        ]
+    },
+    "Hidayat Community Service Website": {
+        "title": "Hidayat Community Service Website",
+        "link": "https://www.freelancer.in/projects/cms/Hidayat-Community-Service-Website",
+        "budget": "Budget $15 – 25 USD per hour",
+        "reason": "Already bid previously",
+        "description": "I’m ready to launch “Hidayat,” an online hub dedicated to community service initiatives aimed at adult audiences. The site will showcase ongoing projects, share inspiring impact stories, and make it easy for visitors to volunteer, donate, or collaborate with us. Here’s what I need built: • A clean, responsive website that runs smoothly on desktop and mobile browsers •… more",
+        "skills": [
+            "PHP",
+            "Website Design",
+            "Graphic Design",
+            "SEO",
+            "CMS"
+        ]
+    },
+    "Reward Points Module Integration": {
+        "title": "Reward Points Module Integration",
+        "link": "https://www.freelancer.in/projects/nextjs/Reward-Points-Module-Integration",
+        "budget": "Budget €30 – 250 EUR",
+        "reason": "Already bid previously",
+        "description": "I have an existing web application built with Next.js, React, and TypeScript, and I need a small module added to implement a Reward Points system for users. The goal is to introduce a simple but extendable Reward Points feature that integrates smoothly with the existing user profiles and transaction flow. Key Requirements: Frontend (Next.js + React +… more",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "HTML",
+            "Node.js",
+            "PostgreSQL"
+        ]
+    },
+    "Digital PDF Product Catalogue Design": {
+        "title": "Digital PDF Product Catalogue Design",
+        "link": "https://www.freelancer.in/projects/adobe-illustrator/Digital-PDF-Product-Catalogue-Design",
+        "budget": "Budget ₹600 – 1,500 INR",
+        "reason": "Already bid previously",
+        "description": "I need a professional to design a product catalogue in a digital PDF format. The catalogue will be 1-10 pages long. Requirements: - Experience in designing product catalogues - Proficiency in design software (e.g., Adobe InDesign, Illustrator) - Ability to create visually appealing and organized layouts - Attention to detail and strong graphic design… more",
+        "skills": [
+            "Brochure Design",
+            "Digital Design",
+            "Artificial Intelligence",
+            "Adobe Illustrator"
+        ]
+    },
+    "NearLink: Social Chat App with Unique Features": {
+        "title": "NearLink: Social Chat App with Unique Features",
+        "link": "https://www.freelancer.in/projects/react-native/NearLink-Social-Chat-App-with",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "Project Title: Build a Full Social Chat App with Stories, Reels, and Nearby User Detection (NearLink) Project Description: I want to develop a mobile social chat application called NearLink, which combines the best features of Instagram, TikTok, Snapchat, Telegram, and WhatsApp — but with a unique twist: Users can detect and connect with other nearby users… more",
+        "skills": [
+            "Mobile App Development",
+            "iPhone",
+            "Android",
+            "GPS",
+            "Node.js"
+        ]
     }
 }
