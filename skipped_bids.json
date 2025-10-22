@@ -2405,5 +2405,19 @@
             "GPS",
             "Node.js"
         ]
+    },
+    "Moodle LMS Update & Customization": {
+        "title": "Moodle LMS Update & Customization",
+        "link": "https://www.freelancer.in/projects/web-development/Moodle-LMS-Update-Customization",
+        "budget": "Budget $250 – 750 USD",
+        "reason": "Already bid previously",
+        "description": "We are seeking an experienced Moodle LMS expert to assist with updating and customizing our Moodle platform. The ideal candidate will have a strong understanding of LMS integration and be comfortable working with Moodle plugins. This initial project may lead to additional opportunities to build out and customize our Moodle platform further.",
+        "skills": [
+            "PHP",
+            "JavaScript",
+            "CSS",
+            "HTML",
+            "eLearning"
+        ]
     }
 }

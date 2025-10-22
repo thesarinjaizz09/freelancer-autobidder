@@ -1,5 +1,6 @@
 # bid_generator.py
 import os
+import re
 from dotenv import load_dotenv
 from openai import OpenAI
 
@@ -77,6 +78,7 @@ Return plain text only.
         {"role": "user", "content": prompt}])
 
         response = completion.choices[0].message.content
+        response = re.sub(r"<.*?>", "", response)
         response = response.strip()
         # Hard truncate if necessary
         if len(response) > MAX_PROPOSAL_LENGTH:
