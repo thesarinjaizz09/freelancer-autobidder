@@ -87,7 +87,6 @@ def login_freelancer(email: str, password: str):
     driver.get("https://www.freelancer.com/login")
     WebDriverWait(driver, 15).until(lambda d: d.execute_script("return document.readyState") == "complete")
     try:
-        print(email, password)
         driver.find_element(By.ID, "emailOrUsernameInput").send_keys(email)
         driver.find_element(By.ID, "passwordInput").send_keys(password)
         login_button = WebDriverWait(driver, 20).until(
@@ -102,8 +101,8 @@ def login_freelancer(email: str, password: str):
         print("✅ Login successfully!")
         time.sleep(6)  # wait for login to complete
     except Exception as e:
-        print("❌ Login failed!:")
-        print(e)
+        print("❌ Login failed!:", e)
+        print(driver.page_source[:1000])  # print first 1000 chars for debuggingas Freelancer changes; these are placeholders
 
 def find_projects():
     search_url = "https://www.freelancer.in/search/projects?projectLanguages=en&projectSkills=9,13,92,263,292,439,500,913,1031,1092,1093,2165,2376,2801,2833,2916,2935,2940,2966,2986"
@@ -392,8 +391,8 @@ def prefill_bid(project):
 
 
 def main():
-    EMAIL = os.getenv("EMAIL")
-    PASSWORD = os.getenv("PSSWD")
+    EMAIL = os.getenv("EMAIL_USER")
+    PASSWORD = os.getenv("PSSWD_USER")
     session_bids = 0
 
     login_freelancer(EMAIL, PASSWORD)
